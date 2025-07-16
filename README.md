@@ -1,6 +1,6 @@
 
 
-##🚀 Space Traveller Game##
+## 🚀 Space Traveller Game ##
 
 Overview
 
