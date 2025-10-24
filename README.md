@@ -58,5 +58,5 @@ This project strengthened my understanding of **game loops, event handling, coll
 </p>
 
 <p align="center">
-  <b>🚀 Built with ❤️ by <a href="https://github.com/devmdave">Dev M Dave</a></b>
+  <b>🚀 Built with ❤️ by <a href="https://github.com/devmdave">Madhav Dave</a></b>
 </p>
