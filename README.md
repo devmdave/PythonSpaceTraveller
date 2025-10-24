@@ -1,182 +1,62 @@
+<!-- 🚀 Space Traveller — Graphical Dashboard Style README (Python + Pygame) -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=700&color=00FFF5&center=true&vCenter=true&width=600&lines=🚀+Space+Traveller;Python+Game+with+Pygame;Explore+the+Universe+and+Avoid+Obstacles" alt="Typing Header"/>
+</p>
 
-## 🚀 Space Traveller Game ##
+<p align="center">
+  <img src="https://i.imgur.com/sq6D7Dk.gif" width="780" height="6" alt="divider"/>
+</p>
 
-Overview
-
-Space Traveller is an arcade-style game developed in Python using Pygame, where players control a spaceship navigating through space, avoiding asteroids, collecting power-ups, and surviving for as long as possible. The game combines fast-paced action with simple, intuitive controls—perfect for casual fun or as a learning project in game development.
-
-
----
-
-🕹️ Gameplay Features
-
-✨ Smooth spaceship controls (arrow keys or WASD)
-
-🪨 Randomly spawning obstacles (asteroids, debris)
-
-⚡ Collectible power-ups (shields, speed boosts, score multipliers)
-
-🔊 Sound effects and background music
-
-🌌 Endless scrolling space background
-
-🧠 Score tracking and game over screen
-
-
+## 💻 About the Project
+**Space Traveller** is a Python game built using **Pygame**.  
+Navigate your spaceship through obstacles, collect bonuses, and survive as long as possible.  
+This project strengthened my understanding of **game loops, event handling, collision detection, and graphics rendering** in Python.
 
 ---
 
-🎮 Controls
+## 🎨 Features
+<p align="center">
+  <img src="https://img.shields.io/badge/Single%20Player-blueviolet?style=for-the-badge" alt="Single Player"/>
+  <img src="https://img.shields.io/badge/Python%203.x-yellow?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pygame-blue?style=for-the-badge" alt="Pygame"/>
+</p>
 
-Action	Key
-
-Move Up	↑ or W
-Move Down	↓ or S
-Move Left	← or A
-Move Right	→ or D
-Quit Game	ESC or Close
-
-
-
----
-
-📸 Screenshots
-
-Add images here of:
-
-Main gameplay screen
-
-Game over / score screen
-
-Power-up effect in action
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/✅-Obstacle%20Avoidance-blueviolet?style=for-the-badge" alt="Obstacle"/>
+  <img src="https://img.shields.io/badge/✅-Score%20Tracking-yellow?style=for-the-badge" alt="Score"/>
+  <img src="https://img.shields.io/badge/✅-Smooth%20Animations-orange?style=for-the-badge" alt="Animations"/>
+  <img src="https://img.shields.io/badge/✅-Keyboard%20Controls-blue?style=for-the-badge" alt="Controls"/>
+</p>
 
 ---
 
-🚀 Getting Started
-
-Prerequisites
-
-Python 3.7+
-
-pygame library
-
-
-Installation
-
-1. Clone the repository
-
-
-
-git clone https://github.com/yourusername/space-traveller-game.git
-cd space-traveller-game
-
-2. Create a virtual environment (optional but recommended)
-
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-3. Install dependencies
-
-
-
-pip install -r requirements.txt
-
-> If requirements.txt is missing, you can install pygame directly:
-
-
-
-pip install pygame
-
-4. Run the game
-
-
-
-python main.py
-
+## 🖼 Demo / Screenshot
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500" alt="Space Traveller Demo"/>
+</p>
 
 ---
 
-🗂️ Project Structure
-
-space-traveller-game/
-│
-├── assets/               # Images, sounds, fonts
-│   ├── player.png
-│   ├── asteroid.png
-│   └── background.mp3
-│
-├── main.py               # Game loop and logic
-├── player.py             # Player movement and collision
-├── enemy.py              # Asteroid behavior
-├── powerups.py           # Power-up logic
-├── utils.py              # Utility functions
-├── requirements.txt
-└── README.md
-
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pygame&theme=dark" alt="Tech Stack"/>
+</p>
 
 ---
 
-🧩 Features to Add (Ideas)
+## 📚 Learning Outcomes
+<p align="center">
+  <img src="https://img.shields.io/badge/✔-Game%20Loop-blueviolet?style=for-the-badge" alt="Game Loop"/>
+  <img src="https://img.shields.io/badge/✔-Event%20Handling-yellow?style=for-the-badge" alt="Events"/>
+  <img src="https://img.shields.io/badge/✔-Collision%20Detection-orange?style=for-the-badge" alt="Collision"/>
+  <img src="https://img.shields.io/badge/✔-Graphics%20Rendering-blue?style=for-the-badge" alt="Graphics"/>
+</p>
 
-🪐 Different space environments (nebulae, galaxies, etc.)
+<p align="center">
+  <img src="https://i.imgur.com/sq6D7Dk.gif" width="780" height="6" alt="divider"/>
+</p>
 
-💥 Collision animations
-
-🧍 High-score tracking
-
-🌠 Boss enemies or levels
-
-🕹️ Controller support
-
-
-
----
-
-🛠️ Built With
-
-Python
-
-Pygame – for graphics, input handling, audio, and main game loop
-
-
-
----
-
-🎓 Educational Value
-
-This project is great for:
-
-Learning game loops and sprite handling
-
-Understanding collision detection
-
-Managing game state and scoring systems
-
-Practicing with Pygame’s event system and audio/visual assets
-
-
-
----
-
-📄 License
-
-MIT License
-© 2025 Your Name / Studio
-
-
----
-
-🙋 Contributions
-
-Pull requests and suggestions are welcome! Please open an issue first if you want to discuss major changes.
-
-
----
-
-Let me know if you'd like help creating a release build (e.g., .exe with PyInstaller) or adding new features like enemy AI, power-up timers, or a pause menu!
-
+<p align="center">
+  <b>🚀 Built with ❤️ by <a href="https://github.com/devmdave">Dev M Dave</a></b>
+</p>
