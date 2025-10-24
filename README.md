@@ -1,4 +1,4 @@
-<!-- 🚀 Space Traveller — Graphical Dashboard Style README (Python + Pygame) -->
+1<!-- 🚀 Space Traveller — Graphical Dashboard Style README (Python + Pygame) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=700&color=00FFF5&center=true&vCenter=true&width=600&lines=🚀+Space+Traveller;Python+Game+with+Pygame;Explore+the+Universe+and+Avoid+Obstacles" alt="Typing Header"/>
@@ -51,10 +51,6 @@ This project strengthened my understanding of **game loops, event handling, coll
   <img src="https://img.shields.io/badge/✔-Event%20Handling-yellow?style=for-the-badge" alt="Events"/>
   <img src="https://img.shields.io/badge/✔-Collision%20Detection-orange?style=for-the-badge" alt="Collision"/>
   <img src="https://img.shields.io/badge/✔-Graphics%20Rendering-blue?style=for-the-badge" alt="Graphics"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/sq6D7Dk.gif" width="780" height="6" alt="divider"/>
 </p>
 
 <p align="center">
