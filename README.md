@@ -1,7 +1,7 @@
-1<!-- 🚀 Space Traveller — Graphical Dashboard Style README (Python + Pygame) -->
+<!-- 🚀 Space Traveller — Graphical Dashboard Style README (Python + Pygame) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=700&color=00FFF5&center=true&vCenter=true&width=600&lines=🚀+Space+Traveller;Python+Game+with+Pygame;Explore+the+Universe+and+Avoid+Obstacles" alt="Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=700&color=00FFF5&center=true&vCenter=true&width=600&lines=🚀+Space+Traveller;" alt="Typing Header"/>
 </p>
 
 <p align="center">
